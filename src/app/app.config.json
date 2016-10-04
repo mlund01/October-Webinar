@@ -1,0 +1,14 @@
+{
+	"appname": "October-Webinar",
+	"scope": "FullAccess",
+	"clientid": "0F6A8FB5-3E1A-4CF8-ADBD-CA3F474D2859",
+	"buyerid": "Webinar",
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
